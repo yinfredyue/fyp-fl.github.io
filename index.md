@@ -1,7 +1,3 @@
-# Object Detection using Federated Learning Techniques
-
-
-
 ## Project Information
 
 Supervisor: Professor C.L. Wang
