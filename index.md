@@ -29,7 +29,7 @@ Project member:
 
 ## Documentation
 
-- Project Plan
+- [Project Plan](./Project_Plan.pdf)
 - Intermediate Report
 - Final Report
 
