@@ -23,23 +23,29 @@ Project member:
 
 ## Project Progress
 
-- Current Task: Federated Learning background, identify research topic, reading paper, prepare for Project Plan
+- Federated Learning background, identify research topic, reading paper, prepare for Project Plan.
+- Implement Stale Synchronous Parallel (SSP) based on open-source framework [*Flower*](https://flower.dev/). Code available [here](https://github.com/yinfredyue/flower).
+- Currently designing Adaptive SSP scheme.
 
 
 
 ## Documentation
 
 - [Project Plan](./Project_Plan.pdf)
-- Intermediate Report
+- [Intermediate Report](./InterimReport.pdf)
 - Final Report
 
 
 
 ## Methodology
 
+Please refer to the `Methodology` section of the [Intermediate Report](./InterimReport.pdf).
 
 
 ## Our Contribution
+
+Please refer to the `Current Progress` section of the [Intermediate Report](./InterimReport.pdf).
+
 
 
 
