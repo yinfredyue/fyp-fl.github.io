@@ -1,45 +1,22 @@
-## Project Information
-
-Supervisor: Professor C.L. Wang
-
-Project member: 
-
-- Yue Yin
-- Ruijie Li 
+Supervisor: Professor C.L. Wang. Project member: Yue Yin, Ruijie Li. 
 
 
 
-## Proposed Timeline
+## Poster
 
-- Oct. 4, 2020 - 1st deliverable: Project plan & project website
-- Jan. 11 ~ 15, 2021 - First presentation
-- Jan. 24, 2021 - 2nd deliverable: preliminary implementation & detailed interim report
-- Apr. 18, 2021 - 3rd deliverable: finaled tested implementation & final report
-- Apr. 19 ~ 23, 2021: Final presentation
-- May 4, 2021: Project exhibition
-- Jun 2, 2021: Project Competition
+![Poster](./poster.jpg)
+
+Video explanation: [Google Drive link](https://drive.google.com/file/d/1ovrO3CFNfnRV6PtwZc02XMLbqdsoWx5G/view?usp=sharing)
 
 
 
-## Project Progress
+## Abstract
 
-- Current Task: Federated Learning background, identify research topic, reading paper, prepare for Project Plan
+Mobile devices have access to unprecedented amount of data for machine learning, and federated learning (FL) trains model using such data, without compromsing user privacy. The synchronization scheme crucial affects the performance of FL. Three schemes, ASP, BSP, and SSP are most widely used, where SSP is a generalized case. In this project we focus on SSP.
 
+The value of staleness bound *s* is the key factor in SSP. In this project, we analyzed the relationship between *s*, convergence time, and model accuracy. Based on the observation, we proposed a strategy *Adaptive-SSP* that changes the value of *s* throughout training, to achieve high accuracy and fast convergence at the same time. We implemented Addaptive-SSP based on an open-source FL framework, and evaluated the performance of Adaptive-SSP on different FL applications.
 
-
-## Documentation
-
-- [Project Plan](./Project_Plan.pdf)
-- Intermediate Report
-- Final Report
-
-
-
-## Methodology
-
-
-
-## Our Contribution
+See the [final report](./Final_report.pdf) for details.
 
 
 
