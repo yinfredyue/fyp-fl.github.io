@@ -16,7 +16,4 @@ Mobile devices have access to unprecedented amount of data for machine learning,
 
 The value of staleness bound *s* is the key factor in SSP. In this project, we analyzed the relationship between *s*, convergence time, and model accuracy. Based on the observation, we proposed a strategy *Adaptive-SSP* that changes the value of *s* throughout training, to achieve high accuracy and fast convergence at the same time. We implemented Addaptive-SSP based on an open-source FL framework, and evaluated the performance of Adaptive-SSP on different FL applications.
 
-See the [final report](./Final_report.pdf) for details.
-
-
-
+See the [final report](./Final_report.pdf) for details. The source code is available at [here](https://github.com/yinfredyue/flower).
